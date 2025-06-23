@@ -1,2 +1,2 @@
-# pixelart_assets
-A few sets of 2d pixel images meant for constructing 3d objects
+# Pixel art assets
+Free to use 2d pixel images representing 3d objects from different views
